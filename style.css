@@ -1,0 +1,31 @@
+body
+{
+  background-color: salmon;
+}
+
+#sketch_right
+{ 
+   font-size:x-large; 
+   float:left;
+   margin: left 20px;
+   color: #550aea;
+}
+
+#time_limit
+{
+   font-size: small; 
+   float: right;
+   margin:right 65px;
+   color: #f6b213;
+}
+
+#canvas_write
+{
+   font-family: 'Franklin Gothic Medium';
+   color: #2ce7c5; 
+}
+
+#show_sketch
+{
+    float:right;
+}
